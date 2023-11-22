@@ -1,0 +1,91 @@
+.rasm {
+    margin-left: 150px;
+}
+
+.h1 {
+    margin-top:-500px;
+
+}
+
+.inp {
+    margin-left: 600px;
+    width: 400px;
+    height:80px;
+    font-size: 30px;
+    padding-left: 118px;
+    border-radius: 50px;
+    margin-top:-9000%;
+}
+
+.lab {
+    margin-top: -30px;
+
+    
+}
+
+
+input {
+    margin-left: 600px;
+    width: 400px;
+    height:80px;
+    font-size: 30px;
+    padding-left: 118px;
+    border-radius: 50px;
+   
+}
+
+.inp:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(200, 255, 0);
+}
+
+.inp:active {
+    color: black;
+    background-color: rgb(251, 255, 0);
+}
+
+.h2 {
+    margin-top:-200px;
+    margin-left: 850px;
+    color: rgb(255, 255, 255);
+}
+.your {
+    margin-left: 600px;
+    width: 400px;
+    height:80px;
+    font-size: 30px;
+    padding-left: 118px;
+    border-radius: 50px;
+    margin-bottom:-500px;
+   
+}
+
+.h3 {
+    margin-bottom: 200px;
+}
+
+.your:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(200, 255, 0);
+}
+
+.h4 {
+    
+}
+
+
+.btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 204, 255);
+    width: 500px;
+    height: 90px;
+    font-size: 50px;
+    border-radius: 70px;
+    margin-left: 697px;
+    
+}
+
+.btn:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(111, 0, 255);
+}
